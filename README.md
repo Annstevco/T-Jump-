@@ -2,7 +2,7 @@
 
 <h4>T-Jump Team : </h4>
 
-1. Denny Prayoga Setiawan Halin         (120140012)
+1. Denny Prayoga Setiawan Halim         (120140012)
 
 2. Annike Stella Cova                   (120140041)
 
