@@ -20,6 +20,6 @@ Dalam pembuatan program game ini menggunakan bahasa pemograman phyton.
 Konsep pemograman dalam coding menggunakan konsep yang terdapat  di dalam Pemograman Berorientasi Objek.
   
 <h4>Cara Bermain : </h4>
-  Player hanya cukup menekan keybord anak panah ke kanan dan kiri. ketika menekan panah ke kanan maka jumper bergerak ke kanan, dan jika menekan panah ke kiri maka jumper akan bergerak ke kiri. Jumper memiliki target untuk melewati setiap pijakan yang ada, karena setiap pijakan yang dilewati akan menambah skor. Dan jika terdapat coin maka akan menambah skor yang telah didapatkan. Ketika jumper tidak memijakan pada pijakan asli maka game over
+  Player hanya cukup menekan keybord anak panah ke kanan dan kiri. ketika menekan panah ke kanan maka jumper bergerak ke kanan, dan jika menekan panah ke kiri maka jumper akan bergerak ke kiri. Jumper memiliki target untuk melewati setiap pijakan yang ada, karena setiap pijakan yang dilewati akan menambah skor. Dan jika terdapat coin maka akan menambah skor yang telah didapatkan. Ketika jumper terjatuh atau menginjak pijakan jebakan, maka player akan game over. 
   
 <h2>Cara Menjalankan Kontainer : </h2>
