@@ -24,7 +24,7 @@ Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi 
   
 <h2>Cara Menjalankan Kontainer : </h2>
   Untuk menjalankan kontainer, pertama clone repositori ini pada folder yang diinginkan. <br />
-  Kemudian, pada file Makefile dapat diubah kode berikut sesuai direktori di mana file di clone <br />
+  Kemudian, pada file Makefile dapat diubah kode berikut sesuai direktori di mana file diclone <br />
 
   ```
   -v ~/Desktop/T-Jump-:/home/docker \
@@ -45,4 +45,4 @@ Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi 
   ```
   
   <h4>Video Demo Kontainer</h4>
-  [![Hands On 4](https://img.youtube.com/vi/54_COzEhGWM/0.jpg)](https://www.youtube.com/watch?v=54_COzEhGWM )
+  [![Hands On 4](https://img.youtube.com/vi/54_COzEhGWM/0.jpg)](https://www.youtube.com/watch?v=54_COzEhGWM)
