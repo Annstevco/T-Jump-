@@ -15,11 +15,11 @@
 6. Yudha Kurnia Pratama                 (120140241)
 
 <h2> Deskripsi Program : </h2>
-  Program yang dibuat adalah sebuah program game, yang bernama T-Jump.
-Dalam pembuatan program game ini menggunakan bahasa pemograman phyton. 
-Konsep pemograman dalam coding menggunakan konsep yang terdapat  di dalam Pemograman Berorientasi Objek.
+  Program yang dibuat adalah sebuah game bernama T-Jump.
+Pembuatan game ini menggunakan bahasa pemograman python dengan memanfaatkan library pygame. 
+Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi objek)/OOP(object oriented programming).
   
 <h4>Cara Bermain : </h4>
-  Player hanya cukup menekan keybord anak panah ke kanan dan kiri. ketika menekan panah ke kanan maka jumper bergerak ke kanan, dan jika menekan panah ke kiri maka jumper akan bergerak ke kiri. Jumper memiliki target untuk melewati setiap pijakan yang ada, karena setiap pijakan yang dilewati akan menambah skor. Dan jika terdapat coin maka akan menambah skor yang telah didapatkan. Ketika jumper terjatuh (terjun bebas) atau menginjak pijakan jebakan, maka player akan game over. 
+  Player cukup menekan tombol keyboard anak panah ke kanan dan kiri (left arrow & right arrow) untuk menentukan arah pergerakan jumper. Ketika menekan panah ke kanan maka jumper bergerak ke kanan, dan jika menekan panah ke kiri maka jumper akan bergerak ke kiri. Player memiliki target untuk mencetak skor sebanyak-banyaknya. Setiap pijakan yang dilewati dan coin yang terambil, akan menambah skor player. Ketika jumper terjatuh (terjun bebas) atau menginjak pijakan jebakan, maka game akan berakhir.
   
 <h2>Cara Menjalankan Kontainer : </h2>
