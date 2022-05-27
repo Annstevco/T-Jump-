@@ -321,6 +321,7 @@ def restartvar():
     global chg, x, bgimg, bgimg2, bgimg3, scrncolor, Jumper
     chg = True
     Pijakan.platforms = [[400, 500, 0, 10]] #pijakan awal
+    coin.coins = []
     Jumper = Player()
     x = Jumper.playery-1000
     bgimg = [loadimg('/properties/bg/bg1', 800, 600), 0]
