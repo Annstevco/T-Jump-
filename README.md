@@ -15,7 +15,7 @@
 6. Yudha Kurnia Pratama                 (120140241)
 
 <h2> Deskripsi Program : </h2>
-  Program yang dibuat adalah sebuah game bernama T-Jump.
+  Program yang dibuat adalah sebuah game bernama T-Jump. T-Jump sendiri terinspirasi dari permainan bernama Doodle Jump dengan konsep permainan yang sama tetapi dengan animasi dan beberapa fitur yang berbeda.
 Pembuatan game ini menggunakan bahasa pemograman python dengan memanfaatkan library pygame. 
 Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi objek)/OOP(object oriented programming).
   
