@@ -30,7 +30,7 @@ Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi 
   -v ~/Desktop/T-Jump-:/home/docker \
   ```
 
-  Kode `~/Desktop/T-Jump-` dapat diubah menjadi file direktori yang diinginkan seperi `~/Documents:/home/docker \` <br />
+  Kode `~/Desktop/T-Jump-:/home/docker \` dapat diubah menjadi file direktori yang diinginkan seperi `~/Documents:/home/docker \` <br />
   Setelah itu dapat dibuild images docker dengan menggunakan <br />
   ```
   make build-tjump
