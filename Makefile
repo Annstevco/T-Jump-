@@ -18,6 +18,6 @@ run-test:	xhost
 	-v ${XDG_RUNTIME_DIR}/pulse/native:${XDG_RUNTIME_DIR}/pulse/native \
 	-v /run/user/1000/pulse:/run/user/1000/pulse \
 	-v /var/run/dbus:/var/run/dbus \
-	-v ~/T-jump-/:/home/docker \
+	-v ~/Desktop/T-jump-:/home/docker \
 	tjump
 
