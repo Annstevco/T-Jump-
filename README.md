@@ -25,9 +25,11 @@ Program ini menerapkan konsep-konsep yang ada pada PBO(pemrograman berorientasi 
 <h2>Cara Menjalankan Kontainer : </h2>
   Untuk menjalankan kontainer, pertama clone repositori ini pada folder yang diinginkan. <br />
   Kemudian, pada file Makefile dapat diubah kode berikut sesuai direktori di mana file di clone <br />
+
   ```
   -v ~/Desktop/T-Jump-:/home/docker \
   ```
+
   Kode `~/Desktop/T-Jump-` dapat diubah menjadi file direktori yang diinginkan seperi `~/Documents:/home/docker \` <br />
   Setelah itu dapat dibuild images docker dengan menggunakan <br />
   ```
